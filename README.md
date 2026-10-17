@@ -61,6 +61,8 @@ r.ForceDebugViewModes=1
 r.ForceDebugViewModes
 ```
 
+- I recommend removing `ForceDebugViewModes` when running the speedrun, as I’m not entirely sure if it might have any side effects.
+
 # View Player Stat
 ```
 BP_PlayerCharacter_C
