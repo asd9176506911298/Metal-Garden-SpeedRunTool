@@ -20,7 +20,7 @@
 # Install UE4SS
 - Unzip UE4SS to:
 ```
-Metal Garden\MetalGarden\Binaries\Win64
+Root\MetalGarden\Binaries\Win64
 ```
 You should now see:
 ```
