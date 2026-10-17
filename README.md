@@ -9,9 +9,9 @@
 | `F3` | Slow Speed Modiify |
 | `F4` | Fast Speed Speed |
 | `F5` | Reset Speed Modify Speed to Default |
-| `V` | NoClip Same as ~ type NoClip sometime will not work need Press ~ open and close console |
+| `V` | NoClip Same as ~ type noclip sometime will not work need Press ~ open and close console |
 | `F8` | Show Object Visible |
-| `F9` | Visible Floor |
+| `F9` | Visible Floor / Hide Floor |
 | `Z` | Teleport (same as Unreal Engine console `Teleport` command) |
 | `DELETE` | Change ViewMode between Lit / Unlit |
 | `PageUp` | Prev ViewMode Unreal Engine console command prevviewmode |
