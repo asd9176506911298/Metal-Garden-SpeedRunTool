@@ -51,6 +51,9 @@ local KeysToAdd = {
 %LOCALAPPDATA%\MetalGarden\Saved\Config\Windows
 ```
 ```
+Engine.ini
+```
+```
 [SystemSettings]
 r.ForceDebugViewModes=1
 ```
