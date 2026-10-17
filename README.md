@@ -46,10 +46,7 @@ local KeysToAdd = {
 }
 ```
 
-# SpeedRunTool
-
-
-# View Collision
+# View More Collision
 ```
 %LOCALAPPDATA%\MetalGarden\Saved\Config\Windows
 ```
@@ -64,4 +61,24 @@ r.ForceDebugViewModes
 # View Player Stat
 ```
 BP_PlayerCharacter_C
+```
+
+# Some Unreal Engine Console Command
+```
+playersonly    Toggles player prescence in the world
+pause    Toggles pausing the game
+toggledebugcamera    Toggles the debug camera view
+teleport    Teleports the player at the debug camera's pointed at location
+slomo x    Sets game speed to the desired speed e.g. 1.0, 0.5, 2.0
+changesize x    Sets player size to the desired size
+fov x    Sets the field of view to the desired angle, e.g. 0, 90
+viewmode lit / viewmode shadercomplexity    Toggles shaders on/off
+stat fps    Toggles displaying FPS on screen
+stat unit    Toggles displaying frametimes on screen
+showdebug    Toggles displaying coordinates on screen
+summon    Spawns a specified object from its blueprint with an appended _C e.g. summon BP_DevilOliver_C summon BP_Executioner_C when in a valid combat zone/story progression.
+shot showui / shot    Takes a PNG screenshot of the game with/without UI and saves it to C:\Users%userprofile%\AppData\Local\CodeVein\Saved\Screenshots\WindowsNoEditor
+open work    Opens the debug map. If opened without a save loaded, loads the debug character with debug equipment and gifts. As of the later patches, this command is mostly useless since debug items were removed from the files.
+exit    Closes the game
+stat levels
 ```
